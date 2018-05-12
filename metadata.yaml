@@ -1,4 +1,5 @@
 _repo: The-Life-and-Legends-of-Saint-Francis-of-Assisi_6367
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -6,6 +7,9 @@ contributor:
       birthdate: 1883
       gutenberg_agent_id: '40207'
       url: http://www.gutenberg.org/2009/agents/40207
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Chalippe, Candide
@@ -18,6 +22,8 @@ description: This is an electronic edition of the complete book complemented by 
   was designed for optimal navigation on the Kindle, PDA, Smartphone, and other electronic
   readers. It is formatted to display on all electronic devices including the Kindle,
   Smartphones and other Mobile Devices with a small display.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6367#The-Life-and-Legends-of-Saint-Francis-of-Assisi
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
 identifiers:
